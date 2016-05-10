@@ -12,7 +12,7 @@ Import urllib
 xx = urllib.urlopen()
 ```      
 
-However in python 3.7, it is different. The intance urllib is replaced with urllib.request.
+However in python 3.5, it is different. The intance urllib is replaced with urllib.request.
 
 ```python      
 import urllib.request
